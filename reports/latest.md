@@ -1,21 +1,21 @@
-# Daily FinTech Signal Tracker — 2026-08-18
+# Daily FinTech Signal Tracker — 2026-08-19
 
 ## Snapshot
-- BTC/USD: 64223.00
-- ETH/USD: 1898.00
-- GBP/USD: 1.3559
+- BTC/USD: 64404.00
+- ETH/USD: 1922.35
+- GBP/USD: 1.3526
 
 ## Day-over-day movement
-- BTC/USD: +1.40%
-- ETH/USD: +0.29%
-- GBP/USD: +0.16%
+- BTC/USD: +0.28%
+- ETH/USD: +1.28%
+- GBP/USD: -0.24%
 
 ## 24-hour crypto movement
-- BTC 24h: +1.46%
-- ETH 24h: +0.35%
+- BTC 24h: +0.29%
+- ETH 24h: +1.30%
 
 ## Brief interpretation
-Bitcoin rose day over day, Ethereum rose, and GBP/USD rose. This update is generated automatically from the project pipeline and committed by GitHub Actions.
+Bitcoin rose day over day, Ethereum rose, and GBP/USD fell. This update is generated automatically from the project pipeline and committed by GitHub Actions.
 
 ## Files updated
 - data/processed/history.csv
