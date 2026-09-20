@@ -1,0 +1,20 @@
+{
+  "date": "2026-09-20",
+  "generated_at_utc": "2026-09-20T13:03:50.315429+00:00",
+  "signals": {
+    "btc_usd": {
+      "price": 80468,
+      "change_24h_pct": -1.0237332724174424,
+      "last_updated_at": 1789909310
+    },
+    "eth_usd": {
+      "price": 2579.75,
+      "change_24h_pct": -2.3419768069945297,
+      "last_updated_at": 1789909310
+    },
+    "gbp_usd": {
+      "price": 1.3344,
+      "source_date": "2026-09-18"
+    }
+  }
+}
