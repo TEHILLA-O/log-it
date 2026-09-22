@@ -2,6 +2,8 @@
 
 An automated Python project that collects selected financial signals each day, stores historical observations, generates a markdown market summary, and publishes updates through GitHub Actions.
 
+See [FAILURES.md](./FAILURES.md) for what can go wrong, what broke, how it was fixed, and results.
+
 ## Signals tracked
 - BTC/USD
 - ETH/USD
