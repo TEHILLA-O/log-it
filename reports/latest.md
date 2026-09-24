@@ -1,18 +1,18 @@
-# Daily FinTech Signal Tracker — 2026-09-23
+# Daily FinTech Signal Tracker — 2026-09-24
 
 ## Snapshot
-- BTC/USD: 85625.00
-- ETH/USD: 2715.06
-- GBP/USD: 1.3363
+- BTC/USD: 84019.00
+- ETH/USD: 2667.74
+- GBP/USD: 1.3276
 
 ## Day-over-day movement
-- BTC/USD: -0.35%
-- ETH/USD: -1.19%
-- GBP/USD: -0.24%
+- BTC/USD: -1.88%
+- ETH/USD: -1.74%
+- GBP/USD: -0.65%
 
 ## 24-hour crypto movement
-- BTC 24h: -0.28%
-- ETH 24h: -1.25%
+- BTC 24h: -1.82%
+- ETH 24h: -1.72%
 
 ## Brief interpretation
 Bitcoin fell day over day, Ethereum fell, and GBP/USD fell. This update is generated automatically from the project pipeline and committed by GitHub Actions.
